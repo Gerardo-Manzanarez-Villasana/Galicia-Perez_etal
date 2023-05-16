@@ -59,7 +59,7 @@ If you are going to use them, please quote them as follows:
 
 Galicia-Perez, A., Golubov, J., Manzanarez-Villasana, G., Martinez-Ramos. L.M., 
 Arias, S., Márquez-Guzmán, J., & Mandujano, M.C. 2023. 
-Complex Taxonomy in Opuntioideae: Is Floral Morphometry Essential to Identify Opuntia Species ?. 
+Complex Taxonomy in Opuntioideae: Is Floral Morphometry Essential to Identify Opuntia Species ? 
 
 If you have any questions you can send mail to: mcmandujano@gmail.com, mcmandu@iecologia.unam.mx 
 
