@@ -1,20 +1,20 @@
-# Galicia-Perez_etal
+# Galicia-Pérez_etal
 
 #Español 
 
 Hola a todos
 
-Esta base de datos es parte del trabajo realizado por Galicia-Perez et al 2023. 
+Esta base de datos es parte del trabajo realizado por Galicia-Pérez et al 2023. 
 
 Estos datos corresponden a la morfologia de los cladodios y flores 
-de cuatro especies de nopales silvestres (Opuntia sp.) tomados en Cadereyta de Montes, Queretaro, México. 
+de cuatro especies de nopales silvestres (Opuntia sp.) tomados en Cadereyta de Montes, Querétaro, México. 
 
 Las especies son: Opuntia robusta H.L. Wendl. ex Pfeiff., Opuntia tomentosa Salm-Dyck, 
 Opuntia cantabrigiensis Lynch y Opuntia streptacantha Lem. 
 
-Todas las medidas de las cladodios estan tomadas en centimetros (cm).
+Todas las medidas de las cladodios estan tomadas en centímetros (cm).
 
-Todas las medidas de las flores estan tomadas en milimetros (mm)
+Todas las medidas de las flores estan tomadas en milímetros (mm)
 
 Si vas a utilizarlos, porfavor citalos del siguiente manera: 
 
@@ -30,10 +30,10 @@ Saludos :)
 
 Hello everyone
 
-This database is part of the work done by Galicia-Perez et al 2023. 
+This database is part of the work done by Galicia-Pérez et al 2023. 
 
 These data correspond to the morphology of cladodes and flowers of four species of wild nopales (Opuntia sp.)
-taken in Cadereyta de Montes, Queretaro, Mexico. 
+taken in Cadereyta de Montes, Querétaro, Mexico. 
 
 The species are: Opuntia robusta H.L. Wendl. ex Pfeiff, Opuntia tomentosa Salm-Dyck, 
 Opuntia cantabrigiensis Lynch and Opuntia streptacantha Lem. 
