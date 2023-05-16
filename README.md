@@ -6,15 +6,20 @@ Hola a todos
 
 Esta base de datos es parte del trabajo realizado por Galicia-Pérez et al 2023. 
 
-Estos datos corresponden a la morfologia de los cladodios y flores 
-de cuatro especies de nopales silvestres (Opuntia sp.) tomados en Cadereyta de Montes, Querétaro, México. 
+Estos datos corresponden a la morfología de los cladodios y flores de cuatro especies de nopales silvestres (Opuntia sp.) tomados en Cadereyta de Montes, Querétaro, México. 
 
-Las especies son: Opuntia robusta H.L. Wendl. ex Pfeiff., Opuntia tomentosa Salm-Dyck, 
-Opuntia cantabrigiensis Lynch y Opuntia streptacantha Lem. 
+Las especies son: Opuntia robusta H.L. Wendl. ex Pfeiff., Opuntia tomentosa Salm-Dyck, Opuntia cantabrigiensis Lynch y Opuntia streptacantha Lem. 
 
-Todas las medidas de las cladodios estan tomadas en centímetros (cm).
+Las medidas de las cladodios correspondientes a: longitud, ancho, grosor, distancia de la parte más ancha al ápice,
+distancia de la parte más ancha a la base, tamaño de la aréola, distancia entre aréolas, distancia entre líneas de aréolas,
+y tamaño total del individuo están tomadas en centímetros (cm).
 
-Todas las medidas de las flores estan tomadas en milímetros (mm)
+Mientras que número de líneas de aréolas, número de espinas por aréola, número de espinas erectas, 
+número de espinas porrectas, número de espinas reflejas y número de espinas adpresas corresponden a conteos. 
+
+Las medidas de las flores correspondientes a: apertura del perianto, altura de la flor, altura del pericarpelo, ancho del pericarpelo, altura del perianto, altura del estilo, altura del estigma, altura de la cámara nectarial, diámetro ecuatorial del ovario, diámetro polar del ovario, largo de los estambres y distancia mínima entre antera y estigma están tomadas en milímetros (mm).  
+
+Mientas que número de óvulos, número de lóbulos en el estigma y número de estambres corresponden a conteos.
 
 Si vas a utilizarlos, porfavor citalos del siguiente manera: 
 
@@ -38,9 +43,13 @@ taken in Cadereyta de Montes, Querétaro, Mexico.
 The species are: Opuntia robusta H.L. Wendl. ex Pfeiff, Opuntia tomentosa Salm-Dyck, 
 Opuntia cantabrigiensis Lynch and Opuntia streptacantha Lem. 
 
-All cladode measurements are in centimeters (cm).
+The measurements of the cladodes corresponding to: length, width, thickness, distance from the widest part to the apex, distance from the widest part to the base, areole size, distance between areoles, distance between lines of areoles, and Total height of the individual are taken in centimeters (cm). 
 
-All flower measurements are in millimeters (mm).
+While number of lines of areoles, number of spines per areole, number of erect spines, number of erect spines, number of porrect spines, number of reflexed spines and number of adpressed spines correspond to counts. 
+
+Flower measurements corresponding to: aperture of the perianth, flower height, height of the pericarpel, width of the pericarpel, height of the perianth, style length, stigma length, length of the nectar chamber, equatorial diameter of the ovary, polar diameter of the ovary, stamen length and minimum distance between the anthers and the stigma (mm).  
+
+While number of ovules, number of stigma lobes and number of stamens correspond to counts.
 
 If you are going to use them, please quote them as follows: 
 
