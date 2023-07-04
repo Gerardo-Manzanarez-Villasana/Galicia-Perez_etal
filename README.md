@@ -4,7 +4,7 @@
 
 Hola a todos
 
-Esta base de datos es parte del trabajo realizado por Galicia-Pérez et al 2023. 
+Esta base de datos es parte del trabajo realizado por Galicia-Pérez et al 2023. (https://doi.org/10.1139/cjb-2022-0133)
 
 Estos datos corresponden a la morfología de los cladodios y flores de cuatro especies de nopales silvestres (Opuntia sp.) tomados en Cadereyta de Montes, Querétaro, México. 
 
@@ -29,7 +29,7 @@ Galicia-Pérez, A., Golubov, J., Manzanarez-Villasana, G., Martínez-Ramos. L.M.
 Arias, S., Márquez-Guzmán, J., & Mandujano, M.C.  2023. 
 Complex Taxonomy in Opuntioideae: Is Floral Morphometry Essential to Identify Opuntia Species ?
 
-Cualquier duda puedes mandar correo a: mcmandujano@gmail.com, mcmandu@iecologia.unam.mx 
+Cualquier duda puedes mandar correo a: mcmandujano@gmail.com, mcmandujano@iecologia.unam.mx 
 
 Saludos :)
 
@@ -37,7 +37,7 @@ Saludos :)
 
 Hello everyone
 
-This database is part of the work done by Galicia-Pérez et al 2023. 
+This database is part of the work done by Galicia-Pérez et al 2023. (https://doi.org/10.1139/cjb-2022-0133)
 
 These data correspond to the morphology of cladodes and flowers of four species of wild nopales (Opuntia sp.)
 taken in Cadereyta de Montes, Querétaro, Mexico. 
@@ -61,6 +61,6 @@ Galicia-Perez, A., Golubov, J., Manzanarez-Villasana, G., Martinez-Ramos. L.M.,
 Arias, S., Márquez-Guzmán, J., & Mandujano, M.C. 2023. 
 Complex Taxonomy in Opuntioideae: Is Floral Morphometry Essential to Identify Opuntia Species ? 
 
-If you have any questions you can send mail to: mcmandujano@gmail.com, mcmandu@iecologia.unam.mx 
+If you have any questions you can send mail to: mcmandujano@gmail.com, mcmandujano@iecologia.unam.mx 
 
 Greetings :)
